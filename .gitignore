@@ -1,0 +1,68 @@
+# Node.js runtime and NPM
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment Variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Compiled JavaScript and TypeScript
+/dist/
+/build/
+/out/
+/lib/
+.eslintcache
+*.tsbuildinfo
+*.log
+
+# Dependency directories
+/bin/
+/coverage/
+/*.log
+.nyc_output/
+
+# Editors
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Testing
+/coverage
+
+# OS-generated files
+Thumbs.db
+.DS_Store
+ehthumbs.db
+
+# Windows image file caches
+Desktop.ini
+$RECYCLE.BIN/
+
+# Python Virtual Environment
+venv/
+
+# Log files
+*.log
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# User-specific files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnp.*
+.pnp.local.*
+
+# Optional - Specific to Create React App
+/node_modules/
+/build/
