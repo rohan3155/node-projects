@@ -68,3 +68,6 @@ yarn-error.log*
 /build/
 
 .vercel
+
+# Local Netlify folder
+.netlify
