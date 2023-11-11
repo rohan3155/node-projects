@@ -1,9 +1,8 @@
 {
     "functions": {
-      "api/*": {
-        "runtime": "nodejs14.x",
-        "memory": 512
-      }
+        "api/*": {
+            "runtime": "nodejs20.9.0",
+            "memory": 512
+        }
     }
-  }
-  
+}
