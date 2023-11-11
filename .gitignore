@@ -66,3 +66,5 @@ yarn-error.log*
 # Optional - Specific to Create React App
 /node_modules/
 /build/
+
+.vercel
